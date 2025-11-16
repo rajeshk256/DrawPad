@@ -11,7 +11,7 @@ import SwiftUI
 struct DrawPadApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BoardGalleryView()
         }
     }
 }
