@@ -26,7 +26,7 @@ Here's a glimpse of DigitalDrawPad in action.
 
 | Text Editing | Image Importing |
 |:---:|:---:|
-| ![Editing a text object on the canvas](DigitalDrawPad/Screenshots/screenshot-3.png) | ![Importing an image from the photo library](DigitalDrawPad/Screenshots/screenshot-4.png) |
+| ![Editing a text object on the canvas](DrawPad/Screenshots/screenshot-3.png) | ![Importing an image from the photo library](DrawPad/Screenshots/screenshot-4.png) |
 
 
 ## Technology Stack
