@@ -22,7 +22,7 @@ Here's a glimpse of DigitalDrawPad in action.
 
 | Board Gallery | Drawing Canvas |
 |:---:|:---:|
-| ![A grid view of all created boards](DigitalDrawPad/Screenshots/screenshot-1.png) | ![The main canvas with various shapes and objects](DigitalDrawPad/Screenshots/screenshot-2.png) |
+| ![A grid view of all created boards](DrawPad/Screenshots/screenshot-1.png) | ![The main canvas with various shapes and objects](DrawPad/Screenshots/screenshot-2.png) |
 
 | Text Editing | Image Importing |
 |:---:|:---:|
