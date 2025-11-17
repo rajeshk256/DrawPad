@@ -16,6 +16,19 @@ A lightweight and intuitive digital whiteboarding application for iOS and iPadOS
 - **Board Gallery:** Create and manage multiple boards in a clean, scrollable grid view.
 - **Modern UI:** Built with SwiftUI for a responsive and fluid user experience that works great on both iOS and iPadOS.
 
+## Screenshots
+
+Here's a glimpse of DigitalDrawPad in action.
+
+| Board Gallery | Drawing Canvas |
+|:---:|:---:|
+| ![A grid view of all created boards](DigitalDrawPad/Screenshots/screenshot-1.png) | ![The main canvas with various shapes and objects](DigitalDrawPad/Screenshots/screenshot-2.png) |
+
+| Text Editing | Image Importing |
+|:---:|:---:|
+| ![Editing a text object on the canvas](DigitalDrawPad/Screenshots/screenshot-3.png) | ![Importing an image from the photo library](DigitalDrawPad/Screenshots/screenshot-4.png) |
+
+
 ## Technology Stack
 
 - **Framework:** SwiftUI
